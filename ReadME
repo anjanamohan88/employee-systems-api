@@ -1,0 +1,5 @@
+Import the Sprng Boot Project in your IDE(i used INTELLIJ).
+Set up the mysql database in your local. The schema details are provided in the application.properties file inside the project file.(coonect to local db using mysql workbench)
+Run the applicatio from  the IDE .YOu can see the applicationhas started in port 8080.
+Import the UI project in your IDE(i used  Visual studio  Code).
+Start the application in VS code by typing npm start on your terminal 
