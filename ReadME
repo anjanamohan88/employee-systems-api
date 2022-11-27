@@ -1,5 +1,7 @@
-Import the Sprng Boot Project in your IDE(i used INTELLIJ).
+Import the Sprng Boot Project in your IDE(i used INTELLIJ).-back end
 Set up the mysql database in your local. The schema details are provided in the application.properties file inside the project file.(coonect to local db using mysql workbench)
 Run the applicatio from  the IDE .YOu can see the applicationhas started in port 8080.
-Import the UI project in your IDE(i used  Visual studio  Code).
-Start the application in VS code by typing npm start on your terminal 
+Import the UI project in your IDE(i used  Visual studio  Code).-front end
+Start the application in VS code by typing 'npm start' on your terminal .
+Your react application will be launched in the local (port 3000/3001).
+Now you can sign up using any valid credential and use the application now.
